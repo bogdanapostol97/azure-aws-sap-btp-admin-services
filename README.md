@@ -1,4 +1,4 @@
-<h1> Guide to Cloud Services: Azure, AWS, and SAP BTP </h1>
+<h1> Guide to cloud services: Azure, AWS, and SAP BTP </h1>
 
 <h2> Introduction </h2>
 
